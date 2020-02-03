@@ -6,10 +6,13 @@
 
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="留言板, UESTC CV DeepLearning MachineLearning 李梓恒 liziheng LZH 计算机 OIer">
+    <meta name="keywords" content="个人主页, UESTC CV DeepLearning MachineLearning 李梓恒 liziheng LZH 计算机 OIer">
     <meta name="baidu-site-verification" content="fmlEuI34ir">
     <meta name="google-site-verification" content="KeoTn_OFy4ndJwXNmm2gMeQfPhd7alqE9vQDwI32KCY">
-    <meta name="description" content="留言板 | 赵海鲲的博客">
+    <meta name="description" content="
+访客量：
+我？
+$\color{red}{赵海鲲}$$\color{skyblue}{2019·4·23}$我红名了$\color{green}{ZHK}$$\color{orange}{’s}$$\color{red}{Blog}$$\">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -17,7 +20,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>留言板 | 赵海鲲的博客</title>
+    <title>个人主页 | 赵海鲲的博客</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/font-awesome.min.css">
@@ -599,54 +602,227 @@
 
 </header>
 
-        <!-- shw2018 洪卫  modify 2019.08.15-->
-<div class="bg-cover pd-header about-cover">
-    <div class="container">
-    <div class="row">
-    <div class="col s10 offset-s1 m8 offset-m2 l8 offset-l2">
-        <div class="brand">
-            <div class="title center-align">
-                <!-- 
-                    赵海鲲的博客
-                 -->
-                
-                    留言板
-                
-            </div>
-
-            <div class="description center-align">
-                
-                    <!-- 常州市觅渡桥小学 | OIer | 计算机 -->
-                    <span id="jinrishici-sentence">正在加载今日诗词...</span>
-                
-            </div>
-            
-            
-        </div>
-    </div>
-</div>
+        
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
 <script>
-// 每天切换 banner 图.  Switch banner image every day.
-$('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay() + '.jpg)');
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
 </script>
 
 
+
+
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/10.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <div class="brand">
+                    <div class="description center-align post-title">
+                        个人主页
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
-<main class="content">
-    <div id="aboutme" class="container contact-container">
-            <div class="card">
-                    <div class="card-content">
-                            <div id="articleContent" data-aos="fade-up">
-                                    <h2 id="畅所欲言"><a href="#畅所欲言" class="headerlink" title="畅所欲言"></a>畅所欲言</h2><hr>
-<p>在这里可以留下你的足迹，欢迎在下方留言，欢迎交换友链，一起交流学习！</p>
-<h2 id="友链"><a href="#友链" class="headerlink" title="友链"></a>友链</h2><hr>
-<p>洪卫の友链信息</p>
-<p>博客名称: 洪卫の博客</p>
-<p>博客网址: <a href="https://sunhwee.com" target="_blank" rel="noopener">https://sunhwee.com</a></p>
-<p>博客头像: <a href="http://sunhwee.com/hwsun.jpg" target="_blank" rel="noopener">http://sunhwee.com/hwsun.jpg</a></p>
-<p>博客介绍: UESTC  CVer！</p>
+
+
+<main class="post-container content">
+
+    
+    <link rel="stylesheet" href="/libs/tocbot/tocbot.css">
+<style>
+    #articleContent h1::before,
+    #articleContent h2::before,
+    #articleContent h3::before,
+    #articleContent h4::before,
+    #articleContent h5::before,
+    #articleContent h6::before {
+        display: block;
+        content: " ";
+        height: 100px;
+        margin-top: -100px;
+        visibility: hidden;
+    }
+
+    #articleContent :focus {
+        outline: none;
+    }
+
+    .toc-fixed {
+        position: fixed;
+        top: 64px;
+    }
+
+    .toc-widget {
+        padding-left: 20px;
+    }
+
+    .toc-widget .toc-title {
+        margin: 35px 0 15px 0;
+        padding-left: 17px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.5rem;
+    }
+
+    .toc-widget ol {
+        padding: 0;
+        list-style: none;
+    }
+
+    #toc-content ol {
+        padding-left: 10px;
+    }
+
+    #toc-content ol li {
+        padding-left: 10px;
+    }
+
+    #toc-content .toc-link:hover {
+        color: #42b983;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    #toc-content .toc-link::before {
+        background-color: transparent;
+        max-height: 25px;
+    }
+
+    #toc-content .is-active-link {
+        color: #42b983;
+    }
+
+    #toc-content .is-active-link::before {
+        background-color: #42b983;
+    }
+
+    #floating-toc-btn {
+        position: fixed;
+        right: 20px;
+        bottom: 76px;
+        padding-top: 15px;
+        margin-bottom: 0;
+        z-index: 998;
+    }
+
+    #floating-toc-btn .btn-floating {
+        width: 48px;
+        height: 48px;
+    }
+
+    #floating-toc-btn .btn-floating i {
+        line-height: 48px;
+        font-size: 1.4rem;
+    }
+</style>
+<div class="row">
+    <div id="main-content" class="col s12 m12 l9">
+        <!-- shw2018 洪卫  modify 2019.08.15-->
+<!-- 文章内容详情 -->
+<div id="artDetail">
+    <div class="card">
+        <div class="card-content article-info">
+            <div class="row tag-cate">
+                <div class="col s7">
+                    
+                    <div class="article-tag">
+                        
+                            <a href="/tags/个人主页/" target="_blank">
+                                <span class="chip bg-color">个人主页</span>
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+                <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fa fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/个人主页/" class="post-category" target="_blank">
+                                个人主页
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="post-info">
+                <div class="post-date info-break-policy">
+                    <i class="fa fa-calendar-minus-o fa-fw"></i>发布日期:&nbsp;&nbsp;
+                    2020-02-03
+                </div>
+
+                <div class="post-author info-break-policy">
+                    <i class="fa fa-user-o fa-fw"></i>作者:&nbsp;&nbsp;
+                    
+                        赵海鲲
+                    
+                </div>
+
+                
+                    
+                    <div class="info-break-policy">
+                        <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
+                        507
+                    </div>
+                    
+
+                    
+                    <div class="info-break-policy">
+                        <i class="fa fa-clock-o fa-fw"></i>阅读时长:&nbsp;&nbsp;
+                        1 分
+                    </div>
+                    
+                
+                
+                
+                        <span id="busuanzi_container_site_pv" style='display:none'></span>
+                        <i class="fa fa-eye fa-fw"></i>阅读次数:&nbsp;&nbsp;
+                        <span id="busuanzi_value_page_pv" ></span>
+    
+                
+
+            </div>
+        </div>
+        <hr class="clearfix">
+        <div class="card-content article-card-content">
+            <div id="articleContent">
+                <p><a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://s01.flagcounter.com/countxl/aesT/bg_17FFD1/txt_2026E3/border_1D4BCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt=""></a></p>
+<h1 id="访客量："><a href="#访客量：" class="headerlink" title="访客量："></a>访客量：<a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="http://www.hit-counts.com/counter.php?t=MTQ0MzkwMg==" alt=""></a></h1><p><a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://cdn.luogu.com.cn/upload/pic/46439.png" alt=""></a></p>
+<h1 id="我？"><a href="#我？" class="headerlink" title="我？"></a>我？</h1><p><a href="https://www.luogu.com.cn/user/180242" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="http://qlogo1.store.qq.com/qzone/1722873536/1722873536/100?1521600610" alt=""></a></p>
+<h1 id="color-red-赵海鲲"><a href="#color-red-赵海鲲" class="headerlink" title="$\color{red}{赵海鲲}$"></a><a href="https://www.luogu.com.cn/user/180242" target="_blank" rel="noopener">$\color{red}{赵海鲲}$</a></h1><h2 id="color-skyblue-2019·4·23-我红名了"><a href="#color-skyblue-2019·4·23-我红名了" class="headerlink" title="$\color{skyblue}{2019·4·23}$我红名了"></a>$\color{skyblue}{2019·4·23}$我<strong>红名</strong>了</h2><h1 id="color-green-ZHK-color-orange-’s-color-red-Blog"><a href="#color-green-ZHK-color-orange-’s-color-red-Blog" class="headerlink" title="$\color{green}{ZHK}$$\color{orange}{’s}$$\color{red}{Blog}$"></a><a href="https://zhaohaikun.blog.luogu.org" target="_blank" rel="noopener">$\color{green}{ZHK}$</a>$\color{orange}{’s}$<a href="https://www.cnblogs.com/zhaohaikun" target="_blank" rel="noopener">$\color{red}{Blog}$</a></h1><h1 id="color-skyblue-蒟蒻-color-blue-的-color-lightskyblue-优秀-color-darkskyblue-团队-color-darkblue-——-color-blue-AC-color-lightblue-加油站"><a href="#color-skyblue-蒟蒻-color-blue-的-color-lightskyblue-优秀-color-darkskyblue-团队-color-darkblue-——-color-blue-AC-color-lightblue-加油站" class="headerlink" title="$\color{skyblue}{蒟蒻}$ $\color{blue}{的}$ $\color{lightskyblue}{优秀}$ $\color{darkskyblue}{团队}$ $\color{darkblue}{——}$ $\color{blue}{AC}$ $\color{lightblue}{加油站}$"></a><a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener">$\color{skyblue}{蒟蒻}$ $\color{blue}{的}$ $\color{lightskyblue}{优秀}$ $\color{darkskyblue}{团队}$ $\color{darkblue}{——}$ $\color{blue}{AC}$ $\color{lightblue}{加油站}$</a></h1><p><a href="http://codeforces.com/profile/zhaohaikun" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://cfrating.ihcr.top/?user=zhaohaikun" alt=""></a></p>
+<p>OI转移</p>
+<pre class="line-numbers language-cpp"><code class="language-cpp">买回来多少书籍，刷过多少习题，换来一个头衔叫OIER
+二进制中的<span class="token number">01</span>，码出来GCD，A<span class="token operator">+</span>B与我不离不弃
+写程序总是很难，题面看似简单，交上去了才发现并不好玩
+样例一遍遍地跑，代码改了又删，五颜六色告诉我还是玩完
+把自己写的程序黏贴到洛谷评测机上，闭上眼点提交不敢再想象
+OIER都是这样，经历过提心吊胆，才能够去面对那U T WA R
+AC是抓不到的月光握紧就变黑暗，所以开始Judging心情就晴朗
+从白天改到晚上，一直改到地老天荒
+OI不消失，我们就永不退役，需要多勇敢
+读过了多少定义，推过多少引理，一点点的理解出算法含义
+傅里叶高斯费马，贪心二分DP，SPFA <span class="token operator">and</span> 那迪杰特斯拉
+考场上总有压力，得分总是第一，思路不来时间却匆匆过去
+OI是一场大戏，日子长别着急，淡定地比赛做真实的自己
+把自己写的程序发送到考场教师机上，短短的几KB写满了希望
+OIER都是这样，经历过起伏跌宕，才打出生涯最美的篇章
+无论你写的程序常数因子到底怎样，抑或是代码的精简与冗长
+我祝你获得成长，获得关注理解欣赏
+继学长足迹，去AK那IOI，是我们信仰
+你不要担心，每个人都有 隐形的翅膀<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -666,12 +842,164 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             document.body.appendChild(img);
           });
       </script>
-                                </div>
+            </div>
+            <hr/>
+
+            
+            <style>
+    #reward {
+        margin: 40px 0;
+        text-align: center;
+    }
+
+    #reward .reward-link {
+        font-size: 1.88rem;
+    }
+
+    #reward .btn-floating:hover {
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    #rewardModal {
+        width: 320px;
+        height: 350px;
+    }
+
+    #rewardModal .reward-title {
+        margin: 15px auto;
+        padding-bottom: 5px;
+    }
+
+    #rewardModal .modal-content {
+        padding: 10px;
+    }
+
+    #rewardModal .close {
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 1.3rem;
+        line-height: 20px;
+        cursor: pointer;
+    }
+
+    #rewardModal .close:hover {
+        color: #ef5350;
+        transform: scale(1.3);
+        -moz-transform:scale(1.3);
+        -webkit-transform:scale(1.3);
+        -o-transform:scale(1.3);
+    }
+
+    #rewardModal .reward-tabs {
+        margin: 0 auto;
+        width: 210px;
+    }
+
+    .reward-tabs .tabs {
+        height: 38px;
+        margin: 10px auto;
+        padding-left: 0;
+    }
+
+    .reward-content ul {
+        padding-left: 0 !important;
+    }
+
+    .reward-tabs .tabs .tab {
+        height: 38px;
+        line-height: 38px;
+    }
+
+    .reward-tabs .tab a {
+        color: #fff;
+        background-color: #ccc;
+    }
+
+    .reward-tabs .tab a:hover {
+        background-color: #ccc;
+        color: #fff;
+    }
+
+    .reward-tabs .wechat-tab .active {
+        color: #fff !important;
+        background-color: #22AB38 !important;
+    }
+
+    .reward-tabs .alipay-tab .active {
+        color: #fff !important;
+        background-color: #019FE8 !important;
+    }
+
+    .reward-tabs .reward-img {
+        width: 210px;
+        height: 210px;
+    }
+</style>
+
+<div id="reward">
+    <a href="#rewardModal" class="reward-link modal-trigger btn-floating btn-large waves-effect waves-light red">赏</a>
+
+    <!-- Modal Structure -->
+    <div id="rewardModal" class="modal">
+        <div class="modal-content">
+            <a class="close modal-close"><i class="fa fa-close"></i></a>
+            <h4 class="reward-title">你的赏识是我前进的动力!</h4>
+            <div class="reward-content">
+                <div class="reward-tabs">
+                    <ul class="tabs row">
+                        <li class="tab col s6 alipay-tab waves-effect waves-light"><a href="#alipay">支付宝</a></li>
+                        <li class="tab col s6 wechat-tab waves-effect waves-light"><a href="#wechat">微 信</a></li>
+                    </ul>
+                    <div id="alipay">
+                        <img src="/medias/reward/alipay.bmp" class="reward-img" alt="支付宝打赏二维码">
+                    </div>
+                    <div id="wechat">
+                        <img src="/medias/reward/wechat.bmp" class="reward-img" alt="微信打赏二维码">
                     </div>
                 </div>
-                   
-                        
-                            <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        $('.tabs').tabs();
+    });
+</script>
+            
+
+            <link rel="stylesheet" type="text/css" href="/libs/share/css/share.min.css">
+
+<div id="article-share">
+    
+    <div class="social-share" data-disabled="qzone" data-wechat-qrcode-helper="<p>微信里点“发现”->“扫一扫”二维码便可查看分享。</p>"></div>
+    
+</div>
+
+<script src="/libs/share/js/social-share.min.js"></script>
+
+            
+            
+            
+            <div class="reprint1">
+                <p>
+                    <span class="reprint1-tip">
+                        <i class="fa fa-exclamation-circle"></i>&nbsp;&nbsp;转载请注明:
+                    </span>
+                    <a href="zhaohaikun.masteroj.cn" class="b-link-green">赵海鲲的博客</a>
+                    <i class="fa fa-angle-right fa-lg fa-fw text-color"></i>
+                    <a href="/2020/02/03/ge-ren-zhu-ye/" class="b-link-green">个人主页</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    
+        <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
 <link rel="stylesheet" href="/css/my-gitalk.css">
 
 <div class="card gitalk-card" data-aos="fade-up">
@@ -686,22 +1014,22 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         repo: 'shw2018.github.io',
         owner: 'shw2018',
         admin: ["shw2018"],
-        id: 'contact/index.html',
+        id: '2020/02/03/ge-ren-zhu-ye/',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
     gitalk.render('gitalk-container');
 </script>
-                        
-        
-                        
-        
-                        
-        
-                        
-        
-                        
-                        <style>
+    
+
+    
+
+    
+
+    
+
+    
+        <style>
     .valine-card {
         margin: 1.5rem auto;
     }
@@ -998,10 +1326,256 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 //   }, 800)
 
 </script>
+    
+
+    
+
+<article id="prenext-posts" class="prev-next articles">
+    <div class="row article-row">
+        
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+            <div class="article-badge left-badge text-color">
+                <i class="fa fa-dot-circle-o"></i>&nbsp;本篇
+            </div>
+            <div class="card">
+                <a href="/2020/02/03/ge-ren-zhu-ye/">
+                    <div class="card-image">
                         
+                        
+                        <img src="/medias/featureimages/10.jpg" class="responsive-img" alt="个人主页">
+                        
+                        <span class="card-title">个人主页</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            
+访客量：
+我？
+$\color{red}{赵海鲲}$$\color{skyblue}{2019·4·23}$我红名了$\color{green}{ZHK}$$\color{orange}{’s}$$\color{red}{Blog}$$\
+                        
+                    </div>
+                    <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2020-02-03
+                            </span>
+                        <span class="publish-author">
+                            
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/个人主页/" class="post-category" target="_blank">
+                                    个人主页
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/个人主页/" target="_blank">
+                        <span class="chip bg-color">个人主页</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                下一篇&nbsp;<i class="fa fa-chevron-right"></i>
+            </div>
+            <div class="card">
+                <a href="/2020/02/03/ti-jie-p1748-h-shu/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="题解 P1278 【单词游戏】">
+                        
+                        <span class="card-title">题解 P1278 【单词游戏】</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            我来讲讲 $dp$ 的做法前言昨天 $PHY$ 大佬问我，这题怎么做？考虑到他没学过 $set$ 、 $priority_queue$ 和 $queue$ 。之后，我就想到了可以用 $dp$ 来解决这道题。
+正文设置状态很显然，我们可以用 
+                        
+                    </div>
+                    <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2020-02-03
+                            </span>
+                        <span class="publish-author">
+                            
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/题解/" class="post-category" target="_blank">
+                                    题解
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/洛谷题解/" target="_blank">
+                        <span class="chip bg-color">洛谷题解</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+</article>
+</div>
+
+
+<script>
+    $('#articleContent').on('copy', function (e) {
+        // IE8 or earlier browser is 'undefined'
+        if (typeof window.getSelection === 'undefined') return;
+
+        var selection = window.getSelection();
+        // if the selection is short let's not annoy our users.
+        if (('' + selection).length < Number.parseInt('120')) {
+            return;
+        }
+
+        // create a div outside of the visible area and fill it with the selected text.
+        var bodyElement = document.getElementsByTagName('body')[0];
+        var newdiv = document.createElement('div');
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+        bodyElement.appendChild(newdiv);
+        newdiv.appendChild(selection.getRangeAt(0).cloneContents());
+
+        // we need a <pre> tag workaround.
+        // otherwise the text inside "pre" loses all the line breaks!
+        if (selection.getRangeAt(0).commonAncestorContainer.nodeName === 'PRE') {
+            newdiv.innerHTML = "<pre>" + newdiv.innerHTML + "</pre>";
+        }
+
+        var url = document.location.href;
+        newdiv.innerHTML += '<br />'
+            + '来源: 赵海鲲的博客<br />'
+            + '作者: 李梓恒<br />'
+            + '链接: <a href="' + url + '">' + url + '</a><br />'
+            + '本文章著作权归作者所有，任何形式的转载都请注明出处。';
+
+        selection.selectAllChildren(newdiv);
+        window.setTimeout(function () {bodyElement.removeChild(newdiv);}, 200);
+    });
+</script>
+
 
     </div>
+    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
+        <div class="toc-widget">
+            <div class="toc-title"><i class="fa fa-list-alt"></i>&nbsp;&nbsp;目录</div>
+            <div id="toc-content"></div>
+        </div>
+    </div>
+</div>
+
+<!-- TOC 悬浮按钮. -->
+
+<div id="floating-toc-btn" class="hide-on-med-and-down">
+    <a class="btn-floating btn-large bg-color">
+        <i class="fa fa-list"></i>
+    </a>
+</div>
+
+
+<script src="/libs/tocbot/tocbot.min.js"></script>
+<script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            // headingsOffset: -205,
+            headingSelector: 'h1, h2, h3, h4, h5'
+        });
+
+        // modify the toc link href to support Chinese.
+        let i = 0;
+        let tocHeading = 'toc-heading-';
+        $('#toc-content a').each(function () {
+            $(this).attr('href', '#' + tocHeading + (++i));
+        });
+
+        // modify the heading title id to support Chinese.
+        i = 0;
+        $('#articleContent').children('h1, h2, h3, h4, h5').each(function () {
+            $(this).attr('id', tocHeading + (++i));
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).slideUp(500);
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).slideDown(500);
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script>
+    
+
 </main>
+
+
         <footer class="page-footer bg-color">
     <div class="container row center-align">
         <div class="col s12 m8 l8 copy-right">

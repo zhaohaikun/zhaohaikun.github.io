@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>个人主页</title>
+      <link href="/2020/02/03/ge-ren-zhu-ye/"/>
+      <url>/2020/02/03/ge-ren-zhu-ye/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://s01.flagcounter.com/countxl/aesT/bg_17FFD1/txt_2026E3/border_1D4BCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt=""></a></p><h1 id="访客量："><a href="#访客量：" class="headerlink" title="访客量："></a>访客量：<a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="http://www.hit-counts.com/counter.php?t=MTQ0MzkwMg==" alt=""></a></h1><p><a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://cdn.luogu.com.cn/upload/pic/46439.png" alt=""></a></p><h1 id="我？"><a href="#我？" class="headerlink" title="我？"></a>我？</h1><p><a href="https://www.luogu.com.cn/user/180242" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="http://qlogo1.store.qq.com/qzone/1722873536/1722873536/100?1521600610" alt=""></a></p><h1 id="color-red-赵海鲲"><a href="#color-red-赵海鲲" class="headerlink" title="$\color{red}{赵海鲲}$"></a><a href="https://www.luogu.com.cn/user/180242" target="_blank" rel="noopener">$\color{red}{赵海鲲}$</a></h1><h2 id="color-skyblue-2019·4·23-我红名了"><a href="#color-skyblue-2019·4·23-我红名了" class="headerlink" title="$\color{skyblue}{2019·4·23}$我红名了"></a>$\color{skyblue}{2019·4·23}$我<strong>红名</strong>了</h2><h1 id="color-green-ZHK-color-orange-’s-color-red-Blog"><a href="#color-green-ZHK-color-orange-’s-color-red-Blog" class="headerlink" title="$\color{green}{ZHK}$$\color{orange}{’s}$$\color{red}{Blog}$"></a><a href="https://zhaohaikun.blog.luogu.org" target="_blank" rel="noopener">$\color{green}{ZHK}$</a>$\color{orange}{’s}$<a href="https://www.cnblogs.com/zhaohaikun" target="_blank" rel="noopener">$\color{red}{Blog}$</a></h1><h1 id="color-skyblue-蒟蒻-color-blue-的-color-lightskyblue-优秀-color-darkskyblue-团队-color-darkblue-——-color-blue-AC-color-lightblue-加油站"><a href="#color-skyblue-蒟蒻-color-blue-的-color-lightskyblue-优秀-color-darkskyblue-团队-color-darkblue-——-color-blue-AC-color-lightblue-加油站" class="headerlink" title="$\color{skyblue}{蒟蒻}$ $\color{blue}{的}$ $\color{lightskyblue}{优秀}$ $\color{darkskyblue}{团队}$ $\color{darkblue}{——}$ $\color{blue}{AC}$ $\color{lightblue}{加油站}$"></a><a href="https://www.luogu.org/team/show?teamid=16683" target="_blank" rel="noopener">$\color{skyblue}{蒟蒻}$ $\color{blue}{的}$ $\color{lightskyblue}{优秀}$ $\color{darkskyblue}{团队}$ $\color{darkblue}{——}$ $\color{blue}{AC}$ $\color{lightblue}{加油站}$</a></h1><p><a href="http://codeforces.com/profile/zhaohaikun" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://cfrating.ihcr.top/?user=zhaohaikun" alt=""></a></p><p>OI转移</p><pre class="line-numbers language-cpp"><code class="language-cpp">买回来多少书籍，刷过多少习题，换来一个头衔叫OIER二进制中的<span class="token number">01</span>，码出来GCD，A<span class="token operator">+</span>B与我不离不弃写程序总是很难，题面看似简单，交上去了才发现并不好玩样例一遍遍地跑，代码改了又删，五颜六色告诉我还是玩完把自己写的程序黏贴到洛谷评测机上，闭上眼点提交不敢再想象OIER都是这样，经历过提心吊胆，才能够去面对那U T WA RAC是抓不到的月光握紧就变黑暗，所以开始Judging心情就晴朗从白天改到晚上，一直改到地老天荒OI不消失，我们就永不退役，需要多勇敢读过了多少定义，推过多少引理，一点点的理解出算法含义傅里叶高斯费马，贪心二分DP，SPFA <span class="token operator">and</span> 那迪杰特斯拉考场上总有压力，得分总是第一，思路不来时间却匆匆过去OI是一场大戏，日子长别着急，淡定地比赛做真实的自己把自己写的程序发送到考场教师机上，短短的几KB写满了希望OIER都是这样，经历过起伏跌宕，才打出生涯最美的篇章无论你写的程序常数因子到底怎样，抑或是代码的精简与冗长我祝你获得成长，获得关注理解欣赏继学长足迹，去AK那IOI，是我们信仰你不要担心，每个人都有 隐形的翅膀<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人主页 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人主页 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>题解 P1278 【单词游戏】</title>
       <link href="/2020/02/03/ti-jie-p1748-h-shu/"/>
       <url>/2020/02/03/ti-jie-p1748-h-shu/</url>
