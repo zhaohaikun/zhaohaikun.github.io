@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="zhaohaikun.masteroj.cn/"/>
-  <updated>2020-02-10T09:44:06.192Z</updated>
+  <updated>2020-02-10T09:53:01.817Z</updated>
   <id>zhaohaikun.masteroj.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="zhaohaikun.masteroj.cn/2020/02/10/ti-jie-p2070-shua-qiang/"/>
     <id>zhaohaikun.masteroj.cn/2020/02/10/ti-jie-p2070-shua-qiang/</id>
     <published>2020-02-10T09:41:39.000Z</published>
-    <updated>2020-02-10T09:44:06.192Z</updated>
+    <updated>2020-02-10T09:53:01.817Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,8 @@
       
         
         
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;&quot;&gt;$ZHK$私人博客体验更佳&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这道题目，$n&amp;lt;=10^5$，显然在暗示我们使用$n
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;这道题目，$n&amp;lt;=10^5$，显然在暗示我们使用$n \log n$的做法，我就是用了一个简单的贪心，通过了此题。&lt;/p&gt;
+&lt;h2
         
       
     
