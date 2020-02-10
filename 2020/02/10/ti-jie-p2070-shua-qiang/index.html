@@ -774,14 +774,14 @@ for(int i=1">
                     
                     <div class="info-break-policy">
                         <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
-                        1.2k
+                        1k
                     </div>
                     
 
                     
                     <div class="info-break-policy">
                         <i class="fa fa-clock-o fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                        6 分
+                        4 分
                     </div>
                     
                 
@@ -839,53 +839,7 @@ for(int i=1">
         <span class="token punctuation">}</span>
     <span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 <h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>我们先来看一下完整的代码：</p>
-<pre class="line-numbers language-cpp"><code class="language-cpp"><span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize(2)</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize(3)</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("Ofast")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("inline")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fgcse")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fgcse-lm")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fipa-sra")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-ftree-pre")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-ftree-vrp")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fpeephole2")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-ffast-math")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fsched-spec")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("unroll-loops")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-falign-jumps")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-falign-loops")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-falign-labels")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fdevirtualize")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fcaller-saves")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fcrossjumping")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fthread-jumps")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-funroll-loops")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fwhole-program")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-freorder-blocks")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fschedule-insns")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("inline-functions")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-ftree-tail-merge")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fschedule-insns2")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fstrict-aliasing")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fstrict-overflow")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-falign-functions")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fcse-skip-blocks")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fcse-follow-jumps")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fsched-interblock")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fpartial-inlining")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("no-stack-protector")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-freorder-functions")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-findirect-inlining")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-frerun-cse-after-loop")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("inline-small-functions")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-finline-small-functions")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-ftree-switch-conversion")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-foptimize-sibling-calls")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fexpensive-optimizations")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-funsafe-loop-optimizations")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("inline-functions-called-once")</span>
-<span class="token macro property">#<span class="token directive keyword">pragma</span> GCC optimize("-fdelete-null-pointer-checks")</span>
-<span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;bits/stdc++.h></span></span>
+<pre class="line-numbers language-cpp"><code class="language-cpp"><span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;bits/stdc++.h></span></span>
 <span class="token keyword">using</span> <span class="token keyword">namespace</span> std<span class="token punctuation">;</span>
 <span class="token keyword">template</span><span class="token operator">&lt;</span><span class="token keyword">typename</span> T<span class="token operator">></span><span class="token keyword">inline</span> <span class="token keyword">void</span> <span class="token function">read</span><span class="token punctuation">(</span>T <span class="token operator">&amp;</span>FF<span class="token punctuation">)</span><span class="token punctuation">{</span>
     T RR<span class="token operator">=</span><span class="token number">1</span><span class="token punctuation">;</span>FF<span class="token operator">=</span><span class="token number">0</span><span class="token punctuation">;</span><span class="token keyword">char</span> CH<span class="token operator">=</span><span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -937,7 +891,7 @@ for(int i=1">
         <span class="token punctuation">}</span>
     <span class="token function">write</span><span class="token punctuation">(</span>ans<span class="token punctuation">)</span><span class="token punctuation">;</span>
     <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
-<span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 <p>补充一下正确性证明：</p>
 <p>实际上作者想到这个方法的时候觉得显然是对的</p>
 <p>其实主要就是为什么要 $lft=a[i].r$ 可能有人对此有点问题，我来解释一下</p>
@@ -1723,7 +1677,7 @@ OI转移
 
             
                 &nbsp; | &nbsp;字数统计:&nbsp;
-                <span class="white-color">2.2k</span> 字
+                <span class="white-color">2k</span> 字
             
 
             
