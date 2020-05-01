@@ -5,9 +5,9 @@
   <subtitle>赵海鲲的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="www.zhaohaikun.cn/"/>
+  <link href="zhaohaikun.masteroj.cn/"/>
   <updated>2020-04-10T08:54:47.801Z</updated>
-  <id>www.zhaohaikun.cn/</id>
+  <id>zhaohaikun.masteroj.cn/</id>
   
   <author>
     <name>赵海鲲</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>题解 P6281 【[USACO20OPEN]Social Distancing S】</title>
-    <link href="www.zhaohaikun.cn/2020/04/05/ti-jie-p6281-usaco20open-social-distancing-s/"/>
-    <id>www.zhaohaikun.cn/2020/04/05/ti-jie-p6281-usaco20open-social-distancing-s/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/04/05/ti-jie-p6281-usaco20open-social-distancing-s/"/>
+    <id>zhaohaikun.masteroj.cn/2020/04/05/ti-jie-p6281-usaco20open-social-distancing-s/</id>
     <published>2020-04-05T12:04:00.000Z</published>
     <updated>2020-04-10T08:54:47.801Z</updated>
     
@@ -29,19 +29,19 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="usaco" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
+      <category term="usaco" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
     
     
-      <category term="二分" scheme="www.zhaohaikun.cn/tags/%E4%BA%8C%E5%88%86/"/>
+      <category term="二分" scheme="zhaohaikun.masteroj.cn/tags/%E4%BA%8C%E5%88%86/"/>
     
   </entry>
   
   <entry>
     <title>题解 P2821 【变幻数】</title>
-    <link href="www.zhaohaikun.cn/2020/03/29/ti-jie-p2821-bian-huan-shu/"/>
-    <id>www.zhaohaikun.cn/2020/03/29/ti-jie-p2821-bian-huan-shu/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/29/ti-jie-p2821-bian-huan-shu/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/29/ti-jie-p2821-bian-huan-shu/</id>
     <published>2020-03-29T09:55:00.000Z</published>
     <updated>2020-03-29T10:00:02.346Z</updated>
     
@@ -51,19 +51,19 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
     
-      <category term="贪心" scheme="www.zhaohaikun.cn/tags/%E8%B4%AA%E5%BF%83/"/>
+      <category term="贪心" scheme="zhaohaikun.masteroj.cn/tags/%E8%B4%AA%E5%BF%83/"/>
     
-      <category term="高精" scheme="www.zhaohaikun.cn/tags/%E9%AB%98%E7%B2%BE/"/>
+      <category term="高精" scheme="zhaohaikun.masteroj.cn/tags/%E9%AB%98%E7%B2%BE/"/>
     
   </entry>
   
   <entry>
     <title>题解 P6249 【神帖】</title>
-    <link href="www.zhaohaikun.cn/2020/03/29/ti-jie-p6249-shen-tie/"/>
-    <id>www.zhaohaikun.cn/2020/03/29/ti-jie-p6249-shen-tie/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/29/ti-jie-p6249-shen-tie/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/29/ti-jie-p6249-shen-tie/</id>
     <published>2020-03-29T04:02:00.000Z</published>
     <updated>2020-03-29T04:07:39.439Z</updated>
     
@@ -73,23 +73,23 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="SS出题组" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SS%E5%87%BA%E9%A2%98%E7%BB%84/"/>
+      <category term="SS出题组" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SS%E5%87%BA%E9%A2%98%E7%BB%84/"/>
     
     
-      <category term="排序" scheme="www.zhaohaikun.cn/tags/%E6%8E%92%E5%BA%8F/"/>
+      <category term="排序" scheme="zhaohaikun.masteroj.cn/tags/%E6%8E%92%E5%BA%8F/"/>
     
-      <category term="dp" scheme="www.zhaohaikun.cn/tags/dp/"/>
+      <category term="dp" scheme="zhaohaikun.masteroj.cn/tags/dp/"/>
     
-      <category term="区间dp" scheme="www.zhaohaikun.cn/tags/%E5%8C%BA%E9%97%B4dp/"/>
+      <category term="区间dp" scheme="zhaohaikun.masteroj.cn/tags/%E5%8C%BA%E9%97%B4dp/"/>
     
   </entry>
   
   <entry>
     <title>题解 P4344 【[SHOI2015]脑洞治疗仪】</title>
-    <link href="www.zhaohaikun.cn/2020/03/27/jie-p4344-shoi2015-nao-dong-zhi-liao-yi/"/>
-    <id>www.zhaohaikun.cn/2020/03/27/jie-p4344-shoi2015-nao-dong-zhi-liao-yi/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/27/jie-p4344-shoi2015-nao-dong-zhi-liao-yi/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/27/jie-p4344-shoi2015-nao-dong-zhi-liao-yi/</id>
     <published>2020-03-27T02:55:00.000Z</published>
     <updated>2020-03-27T03:40:34.051Z</updated>
     
@@ -99,23 +99,23 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="SHOI" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SHOI/"/>
+      <category term="SHOI" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SHOI/"/>
     
     
-      <category term="二分" scheme="www.zhaohaikun.cn/tags/%E4%BA%8C%E5%88%86/"/>
+      <category term="二分" scheme="zhaohaikun.masteroj.cn/tags/%E4%BA%8C%E5%88%86/"/>
     
-      <category term="线段树" scheme="www.zhaohaikun.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+      <category term="线段树" scheme="zhaohaikun.masteroj.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
-      <category term="lazy_tag" scheme="www.zhaohaikun.cn/tags/lazy-tag/"/>
+      <category term="lazy_tag" scheme="zhaohaikun.masteroj.cn/tags/lazy-tag/"/>
     
   </entry>
   
   <entry>
     <title>2020-3-19模拟赛题解</title>
-    <link href="www.zhaohaikun.cn/2020/03/19/2020-3-19-mo-ni-sai/"/>
-    <id>www.zhaohaikun.cn/2020/03/19/2020-3-19-mo-ni-sai/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/19/2020-3-19-mo-ni-sai/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/19/2020-3-19-mo-ni-sai/</id>
     <published>2020-03-19T13:38:00.000Z</published>
     <updated>2020-03-23T01:14:28.190Z</updated>
     
@@ -125,37 +125,37 @@
     
     </summary>
     
-      <category term="模拟赛" scheme="www.zhaohaikun.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+      <category term="模拟赛" scheme="zhaohaikun.masteroj.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
     
     
-      <category term="模拟" scheme="www.zhaohaikun.cn/tags/%E6%A8%A1%E6%8B%9F/"/>
+      <category term="模拟" scheme="zhaohaikun.masteroj.cn/tags/%E6%A8%A1%E6%8B%9F/"/>
     
-      <category term="排序" scheme="www.zhaohaikun.cn/tags/%E6%8E%92%E5%BA%8F/"/>
+      <category term="排序" scheme="zhaohaikun.masteroj.cn/tags/%E6%8E%92%E5%BA%8F/"/>
     
-      <category term="STL-priority_queue" scheme="www.zhaohaikun.cn/tags/STL-priority-queue/"/>
+      <category term="STL-priority_queue" scheme="zhaohaikun.masteroj.cn/tags/STL-priority-queue/"/>
     
-      <category term="搜索" scheme="www.zhaohaikun.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="搜索" scheme="zhaohaikun.masteroj.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
-      <category term="枚举" scheme="www.zhaohaikun.cn/tags/%E6%9E%9A%E4%B8%BE/"/>
+      <category term="枚举" scheme="zhaohaikun.masteroj.cn/tags/%E6%9E%9A%E4%B8%BE/"/>
     
-      <category term="暴力" scheme="www.zhaohaikun.cn/tags/%E6%9A%B4%E5%8A%9B/"/>
+      <category term="暴力" scheme="zhaohaikun.masteroj.cn/tags/%E6%9A%B4%E5%8A%9B/"/>
     
-      <category term="贪心" scheme="www.zhaohaikun.cn/tags/%E8%B4%AA%E5%BF%83/"/>
+      <category term="贪心" scheme="zhaohaikun.masteroj.cn/tags/%E8%B4%AA%E5%BF%83/"/>
     
-      <category term="数论，数学" scheme="www.zhaohaikun.cn/tags/%E6%95%B0%E8%AE%BA%EF%BC%8C%E6%95%B0%E5%AD%A6/"/>
+      <category term="数论，数学" scheme="zhaohaikun.masteroj.cn/tags/%E6%95%B0%E8%AE%BA%EF%BC%8C%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="位运算" scheme="www.zhaohaikun.cn/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+      <category term="位运算" scheme="zhaohaikun.masteroj.cn/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
     
-      <category term="二进制" scheme="www.zhaohaikun.cn/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/"/>
+      <category term="二进制" scheme="zhaohaikun.masteroj.cn/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/"/>
     
-      <category term="分类讨论" scheme="www.zhaohaikun.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
+      <category term="分类讨论" scheme="zhaohaikun.masteroj.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
     
   </entry>
   
   <entry>
     <title>增援前线</title>
-    <link href="www.zhaohaikun.cn/2020/03/18/yuan-qian-xian/"/>
-    <id>www.zhaohaikun.cn/2020/03/18/yuan-qian-xian/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/18/yuan-qian-xian/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/18/yuan-qian-xian/</id>
     <published>2020-03-18T09:57:00.000Z</published>
     <updated>2020-03-23T01:21:41.487Z</updated>
     
@@ -165,19 +165,19 @@
     
     </summary>
     
-      <category term="模拟赛" scheme="www.zhaohaikun.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+      <category term="模拟赛" scheme="zhaohaikun.masteroj.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
     
     
-      <category term="二分" scheme="www.zhaohaikun.cn/tags/%E4%BA%8C%E5%88%86/"/>
+      <category term="二分" scheme="zhaohaikun.masteroj.cn/tags/%E4%BA%8C%E5%88%86/"/>
     
-      <category term="贪心" scheme="www.zhaohaikun.cn/tags/%E8%B4%AA%E5%BF%83/"/>
+      <category term="贪心" scheme="zhaohaikun.masteroj.cn/tags/%E8%B4%AA%E5%BF%83/"/>
     
   </entry>
   
   <entry>
     <title>核心法阵</title>
-    <link href="www.zhaohaikun.cn/2020/03/18/xin-fa-zhen/"/>
-    <id>www.zhaohaikun.cn/2020/03/18/xin-fa-zhen/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/18/xin-fa-zhen/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/18/xin-fa-zhen/</id>
     <published>2020-03-18T09:48:00.000Z</published>
     <updated>2020-03-23T01:21:45.323Z</updated>
     
@@ -187,21 +187,21 @@
     
     </summary>
     
-      <category term="模拟赛" scheme="www.zhaohaikun.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+      <category term="模拟赛" scheme="zhaohaikun.masteroj.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
     
     
-      <category term="搜索" scheme="www.zhaohaikun.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="搜索" scheme="zhaohaikun.masteroj.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
-      <category term="枚举" scheme="www.zhaohaikun.cn/tags/%E6%9E%9A%E4%B8%BE/"/>
+      <category term="枚举" scheme="zhaohaikun.masteroj.cn/tags/%E6%9E%9A%E4%B8%BE/"/>
     
-      <category term="暴力" scheme="www.zhaohaikun.cn/tags/%E6%9A%B4%E5%8A%9B/"/>
+      <category term="暴力" scheme="zhaohaikun.masteroj.cn/tags/%E6%9A%B4%E5%8A%9B/"/>
     
   </entry>
   
   <entry>
     <title>2020-3-13模拟赛题解</title>
-    <link href="www.zhaohaikun.cn/2020/03/13/020-3-13-mo-ni-sai-ti-jie/"/>
-    <id>www.zhaohaikun.cn/2020/03/13/020-3-13-mo-ni-sai-ti-jie/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/13/020-3-13-mo-ni-sai-ti-jie/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/13/020-3-13-mo-ni-sai-ti-jie/</id>
     <published>2020-03-13T01:56:00.000Z</published>
     <updated>2020-03-18T09:51:25.535Z</updated>
     
@@ -211,23 +211,23 @@
     
     </summary>
     
-      <category term="模拟赛" scheme="www.zhaohaikun.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+      <category term="模拟赛" scheme="zhaohaikun.masteroj.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
     
     
-      <category term="二分" scheme="www.zhaohaikun.cn/tags/%E4%BA%8C%E5%88%86/"/>
+      <category term="二分" scheme="zhaohaikun.masteroj.cn/tags/%E4%BA%8C%E5%88%86/"/>
     
-      <category term="模拟" scheme="www.zhaohaikun.cn/tags/%E6%A8%A1%E6%8B%9F/"/>
+      <category term="模拟" scheme="zhaohaikun.masteroj.cn/tags/%E6%A8%A1%E6%8B%9F/"/>
     
-      <category term="排序" scheme="www.zhaohaikun.cn/tags/%E6%8E%92%E5%BA%8F/"/>
+      <category term="排序" scheme="zhaohaikun.masteroj.cn/tags/%E6%8E%92%E5%BA%8F/"/>
     
-      <category term="STL-priority_queue" scheme="www.zhaohaikun.cn/tags/STL-priority-queue/"/>
+      <category term="STL-priority_queue" scheme="zhaohaikun.masteroj.cn/tags/STL-priority-queue/"/>
     
   </entry>
   
   <entry>
     <title>拓展欧几里得定理学习笔记</title>
-    <link href="www.zhaohaikun.cn/2020/03/12/tuo-zhan-ou-ji-li-de-xue-xi-bi-ji/"/>
-    <id>www.zhaohaikun.cn/2020/03/12/tuo-zhan-ou-ji-li-de-xue-xi-bi-ji/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/12/tuo-zhan-ou-ji-li-de-xue-xi-bi-ji/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/12/tuo-zhan-ou-ji-li-de-xue-xi-bi-ji/</id>
     <published>2020-03-12T15:06:46.000Z</published>
     <updated>2020-03-18T09:51:33.129Z</updated>
     
@@ -237,17 +237,17 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="www.zhaohaikun.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记" scheme="zhaohaikun.masteroj.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="数论，数学" scheme="www.zhaohaikun.cn/tags/%E6%95%B0%E8%AE%BA%EF%BC%8C%E6%95%B0%E5%AD%A6/"/>
+      <category term="数论，数学" scheme="zhaohaikun.masteroj.cn/tags/%E6%95%B0%E8%AE%BA%EF%BC%8C%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>题解 P6148 【[USACO20FEB]Swapity Swapity Swap S】</title>
-    <link href="www.zhaohaikun.cn/2020/03/05/jie-p6148-usaco20feb-swapity-swapity-swap-s/"/>
-    <id>www.zhaohaikun.cn/2020/03/05/jie-p6148-usaco20feb-swapity-swapity-swap-s/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/05/jie-p6148-usaco20feb-swapity-swapity-swap-s/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/05/jie-p6148-usaco20feb-swapity-swapity-swap-s/</id>
     <published>2020-03-05T02:09:29.000Z</published>
     <updated>2020-03-18T09:51:49.871Z</updated>
     
@@ -262,8 +262,8 @@
   
   <entry>
     <title>题解 SP2916 【GSS5 - Can you answer these queries V】</title>
-    <link href="www.zhaohaikun.cn/2020/03/04/jie-sp2916-gss5-can-you-answer-these-queries-v/"/>
-    <id>www.zhaohaikun.cn/2020/03/04/jie-sp2916-gss5-can-you-answer-these-queries-v/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/04/jie-sp2916-gss5-can-you-answer-these-queries-v/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/04/jie-sp2916-gss5-can-you-answer-these-queries-v/</id>
     <published>2020-03-04T02:56:00.000Z</published>
     <updated>2020-03-18T09:52:01.934Z</updated>
     
@@ -273,21 +273,21 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="SPOJ" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SPOJ/"/>
+      <category term="SPOJ" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SPOJ/"/>
     
     
-      <category term="分类讨论" scheme="www.zhaohaikun.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
+      <category term="分类讨论" scheme="zhaohaikun.masteroj.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
     
-      <category term="线段树" scheme="www.zhaohaikun.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+      <category term="线段树" scheme="zhaohaikun.masteroj.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
   <entry>
     <title>题解 SP1716 【GSS3 - Can you answer these queries III】</title>
-    <link href="www.zhaohaikun.cn/2020/03/03/jie-sp1716-gss3-can-you-answer-these-queries-iii/"/>
-    <id>www.zhaohaikun.cn/2020/03/03/jie-sp1716-gss3-can-you-answer-these-queries-iii/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/03/jie-sp1716-gss3-can-you-answer-these-queries-iii/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/03/jie-sp1716-gss3-can-you-answer-these-queries-iii/</id>
     <published>2020-03-03T15:36:00.000Z</published>
     <updated>2020-03-18T09:52:16.833Z</updated>
     
@@ -297,21 +297,21 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="SPOJ" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SPOJ/"/>
+      <category term="SPOJ" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/SPOJ/"/>
     
     
-      <category term="分类讨论" scheme="www.zhaohaikun.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
+      <category term="分类讨论" scheme="zhaohaikun.masteroj.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
     
-      <category term="线段树" scheme="www.zhaohaikun.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+      <category term="线段树" scheme="zhaohaikun.masteroj.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
   <entry>
     <title>题解 P5835 【[USACO19DEC]Meetings S】</title>
-    <link href="www.zhaohaikun.cn/2020/03/03/jie-p5835-usaco19dec-meetings-s/"/>
-    <id>www.zhaohaikun.cn/2020/03/03/jie-p5835-usaco19dec-meetings-s/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/03/jie-p5835-usaco19dec-meetings-s/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/03/jie-p5835-usaco19dec-meetings-s/</id>
     <published>2020-03-03T14:18:00.000Z</published>
     <updated>2020-03-18T09:52:09.484Z</updated>
     
@@ -321,23 +321,23 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="usaco" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
+      <category term="usaco" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
     
     
-      <category term="二分" scheme="www.zhaohaikun.cn/tags/%E4%BA%8C%E5%88%86/"/>
+      <category term="二分" scheme="zhaohaikun.masteroj.cn/tags/%E4%BA%8C%E5%88%86/"/>
     
-      <category term="排序" scheme="www.zhaohaikun.cn/tags/%E6%8E%92%E5%BA%8F/"/>
+      <category term="排序" scheme="zhaohaikun.masteroj.cn/tags/%E6%8E%92%E5%BA%8F/"/>
     
-      <category term="贪心" scheme="www.zhaohaikun.cn/tags/%E8%B4%AA%E5%BF%83/"/>
+      <category term="贪心" scheme="zhaohaikun.masteroj.cn/tags/%E8%B4%AA%E5%BF%83/"/>
     
   </entry>
   
   <entry>
     <title>题解 P3205 【[HNOI2010]合唱队】</title>
-    <link href="www.zhaohaikun.cn/2020/03/03/jie-p3205-hnoi2010-he-chang-dui/"/>
-    <id>www.zhaohaikun.cn/2020/03/03/jie-p3205-hnoi2010-he-chang-dui/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/03/jie-p3205-hnoi2010-he-chang-dui/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/03/jie-p3205-hnoi2010-he-chang-dui/</id>
     <published>2020-03-03T14:17:00.000Z</published>
     <updated>2020-03-18T09:52:31.736Z</updated>
     
@@ -347,21 +347,21 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="HN省选" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/HN%E7%9C%81%E9%80%89/"/>
+      <category term="HN省选" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/HN%E7%9C%81%E9%80%89/"/>
     
     
-      <category term="dp" scheme="www.zhaohaikun.cn/tags/dp/"/>
+      <category term="dp" scheme="zhaohaikun.masteroj.cn/tags/dp/"/>
     
-      <category term="区间dp" scheme="www.zhaohaikun.cn/tags/%E5%8C%BA%E9%97%B4dp/"/>
+      <category term="区间dp" scheme="zhaohaikun.masteroj.cn/tags/%E5%8C%BA%E9%97%B4dp/"/>
     
   </entry>
   
   <entry>
     <title>题解 P1002 【过河卒】</title>
-    <link href="www.zhaohaikun.cn/2020/03/03/jie-p1002-guo-he-zu/"/>
-    <id>www.zhaohaikun.cn/2020/03/03/jie-p1002-guo-he-zu/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/03/jie-p1002-guo-he-zu/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/03/jie-p1002-guo-he-zu/</id>
     <published>2020-03-03T14:16:00.000Z</published>
     <updated>2020-03-18T09:52:41.885Z</updated>
     
@@ -371,19 +371,19 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
     
-      <category term="dp" scheme="www.zhaohaikun.cn/tags/dp/"/>
+      <category term="dp" scheme="zhaohaikun.masteroj.cn/tags/dp/"/>
     
-      <category term="递推" scheme="www.zhaohaikun.cn/tags/%E9%80%92%E6%8E%A8/"/>
+      <category term="递推" scheme="zhaohaikun.masteroj.cn/tags/%E9%80%92%E6%8E%A8/"/>
     
   </entry>
   
   <entry>
     <title>题解 分割田地</title>
-    <link href="www.zhaohaikun.cn/2020/03/02/ti-jie-fen-ge-tian-di/"/>
-    <id>www.zhaohaikun.cn/2020/03/02/ti-jie-fen-ge-tian-di/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/02/ti-jie-fen-ge-tian-di/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/02/ti-jie-fen-ge-tian-di/</id>
     <published>2020-03-02T09:13:00.000Z</published>
     <updated>2020-03-18T09:52:48.029Z</updated>
     
@@ -393,23 +393,23 @@
     
     </summary>
     
-      <category term="模拟赛" scheme="www.zhaohaikun.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+      <category term="模拟赛" scheme="zhaohaikun.masteroj.cn/categories/%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
     
     
-      <category term="搜索" scheme="www.zhaohaikun.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="搜索" scheme="zhaohaikun.masteroj.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
-      <category term="分类讨论" scheme="www.zhaohaikun.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
+      <category term="分类讨论" scheme="zhaohaikun.masteroj.cn/tags/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/"/>
     
-      <category term="dp" scheme="www.zhaohaikun.cn/tags/dp/"/>
+      <category term="dp" scheme="zhaohaikun.masteroj.cn/tags/dp/"/>
     
-      <category term="记忆化" scheme="www.zhaohaikun.cn/tags/%E8%AE%B0%E5%BF%86%E5%8C%96/"/>
+      <category term="记忆化" scheme="zhaohaikun.masteroj.cn/tags/%E8%AE%B0%E5%BF%86%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>题解 P1457 【城堡 The Castle】</title>
-    <link href="www.zhaohaikun.cn/2020/03/02/ti-jie-p1457-cheng-bao-the-castle/"/>
-    <id>www.zhaohaikun.cn/2020/03/02/ti-jie-p1457-cheng-bao-the-castle/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p1457-cheng-bao-the-castle/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p1457-cheng-bao-the-castle/</id>
     <published>2020-03-02T04:06:00.000Z</published>
     <updated>2020-03-18T09:52:53.794Z</updated>
     
@@ -419,23 +419,23 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="usaco" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
+      <category term="usaco" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
     
     
-      <category term="bfs" scheme="www.zhaohaikun.cn/tags/bfs/"/>
+      <category term="搜索" scheme="zhaohaikun.masteroj.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
-      <category term="搜索" scheme="www.zhaohaikun.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="位运算" scheme="zhaohaikun.masteroj.cn/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
     
-      <category term="位运算" scheme="www.zhaohaikun.cn/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+      <category term="bfs" scheme="zhaohaikun.masteroj.cn/tags/bfs/"/>
     
   </entry>
   
   <entry>
     <title>题解 P2642 【双子序列最大和】</title>
-    <link href="www.zhaohaikun.cn/2020/03/02/ti-jie-p2642-shuang-zi-xu-lie-zui-da-he/"/>
-    <id>www.zhaohaikun.cn/2020/03/02/ti-jie-p2642-shuang-zi-xu-lie-zui-da-he/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p2642-shuang-zi-xu-lie-zui-da-he/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p2642-shuang-zi-xu-lie-zui-da-he/</id>
     <published>2020-03-02T03:25:00.000Z</published>
     <updated>2020-03-18T09:53:01.135Z</updated>
     
@@ -445,19 +445,19 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
     
-      <category term="dp" scheme="www.zhaohaikun.cn/tags/dp/"/>
+      <category term="dp" scheme="zhaohaikun.masteroj.cn/tags/dp/"/>
     
-      <category term="预处理" scheme="www.zhaohaikun.cn/tags/%E9%A2%84%E5%A4%84%E7%90%86/"/>
+      <category term="预处理" scheme="zhaohaikun.masteroj.cn/tags/%E9%A2%84%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>题解 P1985 【[USACO07OPEN]翻转棋】</title>
-    <link href="www.zhaohaikun.cn/2020/03/02/ti-jie-p1985-usaco07open-fan-zhuan-qi/"/>
-    <id>www.zhaohaikun.cn/2020/03/02/ti-jie-p1985-usaco07open-fan-zhuan-qi/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p1985-usaco07open-fan-zhuan-qi/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p1985-usaco07open-fan-zhuan-qi/</id>
     <published>2020-03-02T03:18:00.000Z</published>
     <updated>2020-03-18T09:53:07.869Z</updated>
     
@@ -467,23 +467,23 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
-      <category term="usaco" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
+      <category term="usaco" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/"/>
     
-      <category term="省中集训" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/%E7%9C%81%E4%B8%AD%E9%9B%86%E8%AE%AD/"/>
+      <category term="省中集训" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/usaco/%E7%9C%81%E4%B8%AD%E9%9B%86%E8%AE%AD/"/>
     
     
-      <category term="搜索" scheme="www.zhaohaikun.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="搜索" scheme="zhaohaikun.masteroj.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
-      <category term="状压" scheme="www.zhaohaikun.cn/tags/%E7%8A%B6%E5%8E%8B/"/>
+      <category term="状压" scheme="zhaohaikun.masteroj.cn/tags/%E7%8A%B6%E5%8E%8B/"/>
     
   </entry>
   
   <entry>
     <title>题解 P1278 【单词游戏】</title>
-    <link href="www.zhaohaikun.cn/2020/03/02/ti-jie-p1278-dan-ci-you-xi/"/>
-    <id>www.zhaohaikun.cn/2020/03/02/ti-jie-p1278-dan-ci-you-xi/</id>
+    <link href="zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p1278-dan-ci-you-xi/"/>
+    <id>zhaohaikun.masteroj.cn/2020/03/02/ti-jie-p1278-dan-ci-you-xi/</id>
     <published>2020-03-02T03:14:00.000Z</published>
     <updated>2020-03-18T09:53:14.065Z</updated>
     
@@ -493,16 +493,16 @@
     
     </summary>
     
-      <category term="洛谷题库" scheme="www.zhaohaikun.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
+      <category term="洛谷题库" scheme="zhaohaikun.masteroj.cn/categories/%E6%B4%9B%E8%B0%B7%E9%A2%98%E5%BA%93/"/>
     
     
-      <category term="搜索" scheme="www.zhaohaikun.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+      <category term="搜索" scheme="zhaohaikun.masteroj.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
-      <category term="记忆化" scheme="www.zhaohaikun.cn/tags/%E8%AE%B0%E5%BF%86%E5%8C%96/"/>
+      <category term="记忆化" scheme="zhaohaikun.masteroj.cn/tags/%E8%AE%B0%E5%BF%86%E5%8C%96/"/>
     
-      <category term="状压" scheme="www.zhaohaikun.cn/tags/%E7%8A%B6%E5%8E%8B/"/>
+      <category term="状压" scheme="zhaohaikun.masteroj.cn/tags/%E7%8A%B6%E5%8E%8B/"/>
     
-      <category term="STL-vector" scheme="www.zhaohaikun.cn/tags/STL-vector/"/>
+      <category term="STL-vector" scheme="zhaohaikun.masteroj.cn/tags/STL-vector/"/>
     
   </entry>
   
